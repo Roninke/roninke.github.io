@@ -1,17 +1,14 @@
 ---
 layout:     post
-title:      "React vs Angular 2：冰与火之歌「译」"
-subtitle:   "React versus Angular 2: There Will Be Blood"
-date:       2016-02-01 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-re-vs-ng2.jpg"
-header-mask: 0.3
-catalog:    true
+title:      "建置GitHub Pages測試"
+subtitle:   "This is a test of build github pages"
+navcolor:   "invert"
+date:       2016-11-23
+author:     "Ronin Ke"
 tags:
-    - 前端开发
-    - JavaScript
-    - 译文
+    - GitHub
 ---
+
 
 > 这篇文章转载自[我在知乎专栏「前端外刊评论」上发表的文章](http://zhuanlan.zhihu.com/FrontendMagazine/20549104)。
 
