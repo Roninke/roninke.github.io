@@ -7,6 +7,8 @@ date:       2016-11-23
 author:     "Ronin Ke"
 tags:
     - GitHub
+    - iOS
+    - swift
 ---
 
 #### **測試**
