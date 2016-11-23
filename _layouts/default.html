@@ -3,14 +3,15 @@
 
 {% include head.html %}
 
-<!-- hack iOS CSS :active style -->
-<body ontouchstart="">
+<body>
 
     {% include nav.html %}
 
     {{ content }}
 
     {% include footer.html %}
+
+    {% include ga.html %}
 
 </body>
 
