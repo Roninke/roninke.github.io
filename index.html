@@ -19,7 +19,9 @@ description: "碼農起義"
         <a class="tag" href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>
         {% endfor %}
     </div>
-    <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+    <div align="right">
+      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+    </div>
 </div>
 <hr>
 {% endfor %}
