@@ -25,5 +25,5 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate, jekyll-feed]
 
 # Sidebar settings
-sidebar-about-description: "Ronin Ke<br>iOS工程師"
+sidebar-about-description: "Ronin Ke<br>iOS Developer<br>UI/UX Designer<br>Startup Dreamer"
 sidebar-avatar: /img/avatar-rke.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
