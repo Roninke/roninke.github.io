@@ -82,7 +82,6 @@ header-img: "img/home-bg.jpg"
             ">
             <!-- Featured Tags -->
             <section>
-                <hr class="hidden-sm hidden-xs">
                 <h5><a href="{{'/tags/' | prepend: site.baseurl }}">FEATURED TAGS</a></h5>
                 <div class="tags">
                     {% for tag in site.tags %} {% if tag[1].size > {{site.featured-condition-size}} %}
