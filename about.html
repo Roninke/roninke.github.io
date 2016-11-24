@@ -52,12 +52,12 @@ header-img: "img/home-bg.jpg"
                 <div class="short-about">
                     <div align="center">
                         {% if site.sidebar-avatar %}
-                        <img src="{{site.sidebar-avatar}}" /> {% endif %}
+                        <img src="{{site.sidebar-avatar}}" /><br> 
+                        {% endif %}
+                        <h5>Ronin Ke</h5>
                     </div>
                     {% if site.sidebar-about-description %}
-                    <div align="right">
-                        <p>{{site.sidebar-about-description}}</p>
-                    </div>
+                      <p>{{site.sidebar-about-description}}</p>
                     {% endif %}
                 </div>
             </section>
