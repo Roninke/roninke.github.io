@@ -580,25 +580,24 @@ body {
     font-size: 12px;
   }
 }
-
 .post-tag {
   display: inline-block;
-  background: rgba($theme-color, 0.15);
+  background: #CC5148;
   padding: 0 .5rem;
   margin-right: .5rem;
   border-radius: 4px;
-  color: $theme-color;
-  font-family: $font-sans;
+  color: #CC5148;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;;
   font-size: 90%;
   &:before {
     content: "\f02b";
-    font-family: $font-font-awesome;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     padding-right: .5em;
   }
   &:hover {
     text-decoration: none;
-    background: $theme-color;
-    color: $white;
+    background: #CC5148;
+    color: #fff;
   }
   @include transition(all .1s ease-in-out);
 }
