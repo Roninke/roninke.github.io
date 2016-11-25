@@ -582,11 +582,11 @@ body {
 }
 .post-tag {
   display: inline-block;
-  background: #CC5148;
+  background: #77D4DA;
   padding: 0 .5rem;
   margin-right: .5rem;
   border-radius: 4px;
-  color: #CC5148;
+  color: #77D4DA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 90%;
   &:before {
@@ -596,8 +596,8 @@ body {
   }
   &:hover {
     text-decoration: none;
-    background: #CC5148;
-    color: #fff;
+    background: #77D4DA;
+    color: #ffffff;
   }
   @include transition(all .1s ease-in-out);
 }
