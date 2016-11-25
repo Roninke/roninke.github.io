@@ -27,14 +27,3 @@ gems: [jekyll-paginate, jekyll-feed]
 # Sidebar settings
 sidebar-about-description: "iOS, Android, UI/UX<br>Developer, Designer, Dreamer"
 sidebar-avatar: /img/avatar-rke.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-# Navigation (2nd level links supported)
-nav:
-  Home:
-    - '/'
-  Tags:
-    - '/tags/'
-    # - { Categories: '/blog/categories/' }
-    # - { Tags: '/blog/tags/' }
-  About:
-    - '/about/'
