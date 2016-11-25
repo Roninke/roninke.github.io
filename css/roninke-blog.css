@@ -588,7 +588,7 @@ body {
   border-radius: 4px;
   color: #ffffff;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 90%;
+  font-size: 80%;
   &:before {
     content: "\f02b";
     font-family: FontAwesome;
