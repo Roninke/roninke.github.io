@@ -596,7 +596,7 @@ body {
   }
   &:hover {
     text-decoration: none;
-    background: #77D4DA;
+    background: #ffffff;
     color: #000000;
   }
   @include transition(all .1s ease-in-out);
