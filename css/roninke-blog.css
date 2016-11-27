@@ -580,7 +580,7 @@ body {
     font-size: 12px;
   }
 }
-.post-tag {
+a > .post-tag {
   display: inline-block;
   /*background: #77D4DA;*/
   padding: 0 .5rem;
